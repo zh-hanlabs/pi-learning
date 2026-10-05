@@ -9,5 +9,11 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@earendil-works/pi-coding-agent": "^0.83.0"
+  },
+  "devDependencies": {
+    "tsx": "^4.23.15"
+  }
 }
